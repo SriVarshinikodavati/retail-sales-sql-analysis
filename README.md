@@ -1,7 +1,5 @@
-# retail-sales-sql-analysis
-Retail sales data analysis using SQL queries to uncover trends, customer segments, and pricing insights.
-
 # Retail Sales Analysis SQL Project
+
 # Project Overview
 # Project Title: Retail Sales Analysis
 # Database: sales
